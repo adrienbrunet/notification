@@ -2,6 +2,9 @@
 
 Notification component for Vue Bulma.
 
+## WHAT THE FORK
+
+This fork exists because of this PR https://github.com/vue-bulma/notification/pull/7/files which is not merged yet and I intend to modify this repo regardless of future development of vue-bulma/notification.
 
 ## Installation
 
