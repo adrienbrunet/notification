@@ -95,15 +95,15 @@ export default {
 
   computed: {
     transition () {
-      return `bounce-${this.direction}`
+      return `fade`
     },
 
     enterClass () {
-      return `bounceIn${this.direction}`
+      return `fadeIn`
     },
 
     leaveClass () {
-      return `bounceOut${this.direction}`
+      return `fadeOut`
     },
   },
 
